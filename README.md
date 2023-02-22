@@ -1,2 +1,2 @@
-# Repo commando git pull
+# Repo commando git pull (other change for fetch)
 comand pull
